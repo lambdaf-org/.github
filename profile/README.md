@@ -25,7 +25,7 @@ Each one is its own repository under `lambdaf-org`. Open the source and read how
 | 06 | [**Neuro**](https://github.com/lambdaf-org/neuro) | `Rust` + `Vue 3` · real-time | Five short gamified cognitive tests over a real-time WebSocket pipeline, giving a five-part score profile with per-game leaderboards. Each game targets one narrow ability. |
 | 07 | [**ClockBot**](https://github.com/lambdaf-org/clock) | `Rust` · Discord | Clock in and out of work activities from Discord slash commands and get weekly hours, rankings, and PNG charts back. Weekly stats archive every Monday. |
 | 08 | [**transl**](https://github.com/lambdaf-org/transl_cli) | `Rust` · CLI | Add one key and value to your base-language JSON file and transl carries that key across every sibling language file, so your translations stay in sync. |
-| 09 | [**money-counter**](https://github.com/lambdaf-org/money-counter) | `Next.js 16` · local-only | Track savings goals by name, target, balance, and monthly contribution, and see how many months each one needs. Browser-only, no backend, no accounts. |
+| 09 | [**MoneyForge**](https://github.com/lambdaf-org/MoneyForge) | `Next.js 16` · local-only | Track savings goals by name, target, balance, and monthly contribution, and see how many months each one needs. Browser-only, no backend, no accounts. |
 | 10 | [**GradeForge**](https://github.com/lambdaf-org/GradeForge) | `Next.js 16` · local-only | Calculate your School Grade averages, any grading system, any country. Browser-only, no backend, no accounts. |
 
 ## The bench rules
