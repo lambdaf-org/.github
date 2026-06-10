@@ -43,7 +43,7 @@ Everyone who has pushed commits to the tools above, drawn from each repository's
 
 - [**@191-iota**](https://github.com/191-iota) · _Producing software people actually need._ · overseer, saul-swissman, auspex, synthesis, the-factory, neuro, clock, transl
 - [**@Ajith1412**](https://github.com/Ajith1412) · neuro, clock
-- [**@Thirstums**](https://github.com/Thirstums) · clock, GradeForge, money-counter
+- [**@Thirstums**](https://github.com/Thirstums) · clock, GradeForge, MoneyForge
 
 ## Get started
 
