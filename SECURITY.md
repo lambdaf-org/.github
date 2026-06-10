@@ -10,7 +10,7 @@ Report a vulnerability through one of these private channels:
 
 - **GitHub private reporting**: open the repository's **Security** tab and choose **Report a vulnerability**
   (this opens a private advisory only the maintainers can see).
-- **Email**: send the details to **security@lambdaf.org**.
+- **Email**: send the details to **bimodality@proton.me**.
 
 Please include as much of the following as you can:
 
