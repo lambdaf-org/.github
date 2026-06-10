@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributor guide
+    url: https://github.com/lambdaf-org/contributing
+    about: How to set up, build, and contribute to Lambdaforge projects.
+  - name: Security report
+    url: https://github.com/lambdaf-org/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, not as public issues.

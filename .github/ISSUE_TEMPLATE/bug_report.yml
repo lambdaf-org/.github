@@ -1,0 +1,46 @@
+name: Bug report
+description: Report something that is broken or behaving incorrectly
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to file a bug. Please fill in what you can.
+  - type: input
+    id: repo
+    attributes:
+      label: Affected repository / version
+      description: Which repo, and which version or commit?
+      placeholder: "clock @ v1.2.0 (or commit sha)"
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: A clear description of the bug.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce it?
+      placeholder: |
+        1. Run ...
+        2. Click ...
+        3. See ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, runtime version (Rust / Node / Python), browser, anything relevant.
+    validations:
+      required: false
