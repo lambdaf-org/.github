@@ -55,12 +55,12 @@ are obligated to respect the privacy and security of the reporter of any inciden
 Maintainers will follow these guidelines in determining the consequences for any action they deem in
 violation of this Code of Conduct:
 
-1. **Correction** — a private, written warning, with clarity around the nature of the violation.
-2. **Warning** — a warning with consequences for continued behavior, including a defined period of no
+1. **Correction**: a private, written warning, with clarity around the nature of the violation.
+2. **Warning**: a warning with consequences for continued behavior, including a defined period of no
    interaction with the people involved.
-3. **Temporary ban** — a temporary ban from any sort of interaction or public communication with the
+3. **Temporary ban**: a temporary ban from any sort of interaction or public communication with the
    community for a specified period of time.
-4. **Permanent ban** — a permanent ban from any sort of public interaction within the community.
+4. **Permanent ban**: a permanent ban from any sort of public interaction within the community.
 
 ## Attribution
 
