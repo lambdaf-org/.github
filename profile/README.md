@@ -21,7 +21,7 @@ These hold across every repository here.
 
 Everyone who has pushed commits to the tools above, drawn from each repository's history.
 
-- [**@191-iota**](https://github.com/191-iota), _producing software people actually need_, commits in overseer, saul-swissman, auspex, synthesis, the-factory, neuro, clock and transl
+- [**@191-iota**](https://github.com/191-iota), commits in overseer, saul-swissman, auspex, synthesis, the-factory, neuro, clock and transl
 - [**@Ajith1412**](https://github.com/Ajith1412), commits in neuro and clock
 - [**@Thirstums**](https://github.com/Thirstums), commits in clock, GradeForge and MoneyForge
 
