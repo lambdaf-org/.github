@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/lambdaf-org/.github/main/profile/lambdaforge-logo.png" alt="LAMBDAFORGE" width="500">
 </p>
 
-<h3 align="center">Tools that show their work.</h3>
-
 <p align="center">
   <i>Software built to be used.</i><br>
   open source · <a href="https://lambdaf.org">lambdaf.org</a>
