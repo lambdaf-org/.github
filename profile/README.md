@@ -26,6 +26,7 @@ Each one is its own repository under `lambdaf-org`. Open the source and read how
 | 07 | [**ClockBot**](https://github.com/lambdaf-org/clock) | `Rust` · Discord | Clock in and out of work activities from Discord slash commands and get weekly hours, rankings, and PNG charts back. Weekly stats archive every Monday. |
 | 08 | [**transl**](https://github.com/lambdaf-org/transl_cli) | `Rust` · CLI | Add one key and value to your base-language JSON file and transl carries that key across every sibling language file, so your translations stay in sync. |
 | 09 | [**money-counter**](https://github.com/lambdaf-org/money-counter) | `Next.js 16` · local-only | Track savings goals by name, target, balance, and monthly contribution, and see how many months each one needs. Browser-only, no backend, no accounts. |
+| 10 | [**GradeForge**](https://github.com/lambdaf-org/GradeForge) | `Next.js 16` · local-only | Calculate your School Grade averages, any grading system, any country. Browser-only, no backend, no accounts. |
 
 ## The bench rules
 
@@ -42,7 +43,7 @@ Everyone who has pushed commits to the tools above, drawn from each repository's
 
 - [**@191-iota**](https://github.com/191-iota) · _Producing software people actually need._ · overseer, saul-swissman, auspex, synthesis, the-factory, neuro, clock, transl
 - [**@Ajith1412**](https://github.com/Ajith1412) · neuro, clock
-- [**@Thirstums**](https://github.com/Thirstums) · clock, money-counter
+- [**@Thirstums**](https://github.com/Thirstums) · clock, GradeForge, money-counter
 
 ## Get started
 
