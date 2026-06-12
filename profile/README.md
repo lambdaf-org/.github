@@ -12,9 +12,9 @@
 
 Everyone who has pushed commits to the tools above, drawn from each repository's history.
 
-- [**@191-iota**](https://github.com/191-iota), commits in overseer, saul-swissman, auspex, synthesis, the-factory, neuro, clock and transl
-- [**@Ajith1412**](https://github.com/Ajith1412), commits in neuro and clock
-- [**@Thirstums**](https://github.com/Thirstums), commits in clock, GradeForge and MoneyForge
+- [**@191-iota**](https://github.com/191-iota)
+- [**@Ajith1412**](https://github.com/Ajith1412)
+- [**@Thirstums**](https://github.com/Thirstums)
 
 ## Get started
 
