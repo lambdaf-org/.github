@@ -1,5 +1,5 @@
 <p align="center">
-  <i>Organization Algoleague</i><br>
+  <i>Evolve, Together.</i><br>
 </p>
 
 ---
